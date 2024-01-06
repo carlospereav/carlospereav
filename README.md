@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there, my name is Carlos Perea 👋
+
+I have recently graduated in Mathematics, and I'm interested in Data Science.
+
+Here you can see some of my works.
 
 <!--
 **carlospereav/carlospereav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
