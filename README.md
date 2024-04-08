@@ -7,6 +7,7 @@ Here you can see some of my works:
 - [Mathematics Major Projects](https://github.com/carlospereav/Mathematics-Major).
 - [Final Projects of 100 Days of Python Course by Angela Yu on Udemy](https://github.com/carlospereav/100DaysOfPython).
 - [Google Data Analytics Certificate](https://github.com/carlospereav/GoogleDataAnalytics).
+- [SQL de cero by Fernando Herrera](https://github.com/carlospereav/PostgreSQL)
 
 <!--
 **carlospereav/carlospereav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
