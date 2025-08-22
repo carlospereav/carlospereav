@@ -2,11 +2,15 @@
 
 I have recently graduated in Mathematics, and I'm interested in Data Science.
 
-Here you can see some of my works:
+Here you can see some of my past works:
 
 - [Mathematics Major Projects](https://github.com/carlospereav/Mathematics-Major).
 - [Final Projects of 100 Days of Python Course by Angela Yu on Udemy](https://github.com/carlospereav/100DaysOfPython).
 - [Google Data Analytics Certificate](https://github.com/carlospereav/GoogleDataAnalytics).
+
+Here are some recent works:
+
+- [Kaggle Projects](https://github.com/carlospereav/Kaggle-Competitions)
 
 <!--
 **carlospereav/carlospereav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
